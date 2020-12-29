@@ -1,0 +1,16 @@
+{
+  "name": "Akari",
+  "version": "1.0.0",
+  "description": "Automate coinflip OwO bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Haneul Seong <hana@disroot.org>",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4"
+  }
+}
